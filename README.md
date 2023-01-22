@@ -139,11 +139,12 @@ urlpatterns=[
 ]
 ```
 ## OUTPUT:
-![OUTPUT]:(./volume.png)
+![OUTPUT](./screenshots/output.png)
 
 
 ### Home Page:
-![HOME Page](./home.png)
+![HOME Page](./screenshots/volume.png)
+
 
 
 ## Result:
